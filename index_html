@@ -9,10 +9,11 @@
         <script src="estudo.js"></script>
 </head>
 <body>
-    <h1>Milagre</h1>
-
-   <button onclick= "meChame('julia')">clique aqui</button>
+    
+ valor;<input id="val" type="text"><br>
+ juros;<input id="val" type="text"><br>
+ meses;<input id="val" type="text"><br>
+ <butoon onclick="total()">Enviar</butoon>
 
 </body>
 </html>
-
